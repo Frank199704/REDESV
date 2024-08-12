@@ -123,3 +123,5 @@
 /ip firewall address-list add address=190.202.11.102 list=BANCOS
 /ip firewall address-list add address=200.11.218.156 list=BANCOS
 /ip firewall address-list add address=bdtenlinea.bdt.com.ve list=BANCOS
+/ip firewall address-list add address=sistema.sunagro.gob.ve list=BANCOS
+
